@@ -1,0 +1,10 @@
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+D:\Online Class\Spring Sem 20-21\C Sharp\Code\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
